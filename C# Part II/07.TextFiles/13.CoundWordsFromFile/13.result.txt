@@ -1,0 +1,5 @@
+like - 2
+fails - 1
+9gag - 1
+test - 0
+word - 0
